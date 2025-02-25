@@ -1,1 +1,3 @@
-# sistema-de-registro-practica
+# Sistema-de-registro-practica
+- Proyecto en construccion
+- Precticando el pull
