@@ -1,1 +1,1 @@
-# Juego-Numero-Secreto
+# sistema-de-registro-practica
